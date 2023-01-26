@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## ✍️Blog & Writing
+
+Apart from coding, I also maintain a blog - you can find my articles on my website at 
+
+## 🔧Technologies & Tools
+
+![](https://img.shields.io/badge/Editer-IDEA-informational?style=flat&logo=IntelliJ IDEA&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Editer-Goland-informational?style=flat&logo=Goland&logoColor=white&color=2bbc8a)
+
