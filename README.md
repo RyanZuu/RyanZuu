@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 ### ✍️Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at 
+Apart from coding, I also maintain a blog - you can find my articles on my website at [myblog](https://ryanzuu.github.io/myblog)
 
 ### 🔧Technologies & Tools
 
